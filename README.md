@@ -18,4 +18,8 @@ This document provides an overview of our process for developing point clouds us
 * Data Processing
   * Intel NUC D54250WYK
   
+ 
+## Basic Data Capture Procedure
+ In the Debug folder, edit the Settings.txt file and put the number of seconds you want the code to wait before beginning to execute. This is for IMU calibration that can be read about more [here](https://www.xsens.com/products/mti-g-710/).
+  
 
