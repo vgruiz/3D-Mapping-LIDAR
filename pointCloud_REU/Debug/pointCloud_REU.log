@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\pointcloud_reu\source.cpp(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\pointcloud_reu\source.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\pointcloud_reu\source.cpp(180): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\pointcloud_reu\source.cpp(208): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\pointcloud_reu\source.cpp(336): warning C4551: function call missing argument list
+  pointCloud_REU.vcxproj -> C:\Users\Christian\documents\visual studio 2017\Projects\lidarLiveCap\Debug\pointCloud_REU.exe
+  pointCloud_REU.vcxproj -> C:\Users\Christian\documents\visual studio 2017\Projects\lidarLiveCap\Debug\pointCloud_REU.pdb (Partial PDB)

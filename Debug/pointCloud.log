@@ -1,0 +1,5 @@
+﻿  assem.cpp
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\pointcloud\assem.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\pointcloud\assem.cpp(409): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  pointCloud.vcxproj -> C:\Users\Christian\Documents\Visual Studio 2017\Projects\lidarLiveCap\Debug\pointCloud.exe
+  pointCloud.vcxproj -> C:\Users\Christian\Documents\Visual Studio 2017\Projects\lidarLiveCap\Debug\pointCloud.pdb (Partial PDB)

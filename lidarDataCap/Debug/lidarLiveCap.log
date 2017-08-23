@@ -1,0 +1,12 @@
+﻿  liveCap.cpp
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\lidarlivecap\livecap.cpp(194): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\lidarlivecap\livecap.cpp(321): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\lidarlivecap\livecap.cpp(329): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\lidarlivecap\livecap.cpp(334): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\lidarlivecap\livecap.cpp(350): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\lidarlivecap\livecap.cpp(357): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\lidarlivecap\livecap.cpp(364): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\lidarlivecap\livecap.cpp(371): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\christian\documents\visual studio 2017\projects\lidarlivecap\lidarlivecap\livecap.cpp(380): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  lidarLiveCap.vcxproj -> C:\Users\Christian\documents\visual studio 2017\Projects\lidarLiveCap\Debug\lidarLiveCap.exe
+  lidarLiveCap.vcxproj -> C:\Users\Christian\documents\visual studio 2017\Projects\lidarLiveCap\Debug\lidarLiveCap.pdb (Partial PDB)
