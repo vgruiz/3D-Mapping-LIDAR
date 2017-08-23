@@ -20,6 +20,8 @@ This document provides an overview of our process for developing point clouds us
   
  
 ## Basic Data Capture Procedure
- In the Debug folder, edit the Settings.txt file and put the number of seconds you want the code to wait before beginning to execute. This is for IMU calibration that can be read about more [here](https://www.xsens.com/products/mti-g-710/).
+ In the Debug folder, edit the Settings.txt file and put the number of seconds you want the code to wait before beginning to execute. This is for IMU calibration that can be read about in the User Manual found [here](https://www.xsens.com/products/mti-g-710/).
+ 
+ Make sure lidarLiveCap.exe, Settings.txt and IMU.exe are all in the same folder before starting the data capture. lidarLiveCap refers to Settings and starts IMU so the data capture starts at approximately the same time.
   
 
